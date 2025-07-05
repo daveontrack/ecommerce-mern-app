@@ -3,7 +3,6 @@
 
 A modern, full-featured **ECommerce Web Application** built with the **MERN stack** — **MongoDB, Express.js, React, Node.js** — and styled using **Tailwind CSS**. Includes both **customer-facing features** and a powerful **Admin Dashboard** for managing products, orders, and users.
 
-![App Screenshot](https://via.placeholder.com/1000x400?text=Ecommerce+MERN+App+Preview)
 
 ---
 
