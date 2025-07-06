@@ -118,15 +118,6 @@ ecommerce-mern-app/
 └── README.md
 ```
 
-## 🌟 Screenshots
-
-| Home Page | Product Page | Cart |
-|-----------|--------------|------|
-| ![Home](https://via.placeholder.com/400x200?text=Home+Page) | ![Product](https://via.placeholder.com/400x200?text=Product+Page) | ![Cart](https://via.placeholder.com/400x200?text=Cart) |
-
-| Checkout | Admin Dashboard | Mobile View |
-|----------|-----------------|-------------|
-| ![Checkout](https://via.placeholder.com/400x200?text=Checkout) | ![Admin](https://via.placeholder.com/400x200?text=Admin+Dashboard) | ![Mobile](https://via.placeholder.com/400x200?text=Mobile+View) |
 
 ## 🛒 Features in Detail
 
