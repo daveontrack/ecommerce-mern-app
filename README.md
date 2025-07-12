@@ -6,7 +6,7 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-5.0-brightgreen)
 ![License](https://img.shields.io/badge/License-MIT-success)
 
-A full-featured e-commerce platform built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring modern UI, secure payments, and admin dashboard.
+A full-featured E-COMMERCE platform built with the MERN stack (MongoDB, Express.js, React, Node.js) featuring modern UI, secure payments, and admin dashboard.
 
 ## ✨ Key Features
 
