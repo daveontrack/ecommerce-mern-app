@@ -1,4 +1,6 @@
-# 🛍️ E-Commerce MERN Stack Application
+<img src="https://img.icons8.com/color/48/online-store.png" alt="Store Icon" style="height: 24px;"> <span>E-Commerce MERN Stack Application</span>
+
+
 
 ![MERN Stack](https://img.shields.io/badge/MERN-Stack-9cf)
 ![React](https://img.shields.io/badge/React-18-blue)
