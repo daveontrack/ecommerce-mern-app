@@ -1,4 +1,4 @@
-<img src="https://img.icons8.com/color/48/online-store.png" alt="Store Icon" style="height: 24px;"> <span>E-Commerce MERN Stack Application</span>
+🛒📦 E-Commerce MERN Stack Application
 
 
 
